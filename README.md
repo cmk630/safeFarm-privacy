@@ -1,6 +1,6 @@
 Privacy Policy
 
-Munki Chung built the safeFarm app as a Free app. This SERVICE is provided by Munki Chung at no cost and is intended for use as is.
+Munki Chung built the 이지스팜 app as a Free app. This SERVICE is provided by Munki Chung at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
